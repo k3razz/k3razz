@@ -1,4 +1,4 @@
-# Kerazz
+
 ## Languages
 c#,java,python,javaScript
 ## About me

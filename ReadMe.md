@@ -7,4 +7,4 @@ Name: Sasha
 Country: Ukraine
 ## Project's
 [EclipseMenu](https://github.com/k3razz/eclipsemenu),
-[AULoader](https://github.com/k3razz/auloader)
+[AULoader](https://github.com/k3razz/AULoader)

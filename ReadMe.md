@@ -11,3 +11,6 @@ Country: Ukraine
 ## Project's
 [EclipseMenu](https://github.com/k3razz/eclipsemenu),
 [AULoader](https://github.com/k3razz/AULauncher)
+
+## GitHub stats
+https://github-readme-streak-stats.herokuapp.com/?user=k3razz

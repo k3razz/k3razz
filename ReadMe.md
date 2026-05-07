@@ -14,3 +14,4 @@ Country: Ukraine
 
 ## GitHub stats
 ![GHStreak](https://github-readme-streak-stats.herokuapp.com/?user=k3razz)
+![Profile views](https://komarev.com/ghpvc/?username=k3razz)

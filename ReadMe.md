@@ -1,6 +1,6 @@
 
 ## Languages
-c#,java,python,javaScript
+![cs](https://img.shields.io/badge/c#%20message-34a4eb)
 ## About me
 Age: 19 
 

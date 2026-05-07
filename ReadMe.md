@@ -13,4 +13,4 @@ Country: Ukraine
 [AULoader](https://github.com/k3razz/AULauncher)
 
 ## GitHub stats
-https://github-readme-streak-stats.herokuapp.com/?user=k3razz
+![GHStreak](https://github-readme-streak-stats.herokuapp.com/?user=k3razz)

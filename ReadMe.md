@@ -1,8 +1,9 @@
 
 ## Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++ 50%](https://img.shields.io/badge/C%2B%2B-50%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=git,github,cs,java,javascript,py,html,css,visualstudio" />
+</div>
+
 ## About me
 Age: 19 
 
@@ -18,4 +19,4 @@ Country: Ukraine
 [MalumMenu-Unofficial](https://github.com/f1xx00rs/MalumMenu-Unofficial)
 
 ## GitHub stats
-![GHStreak](https://github-readme-streak-stats.herokuapp.com/?user=k3razz)<br>![Profile views](https://komarev.com/ghpvc/?username=k3razz&label=Profile%20views&color=blueviolet&style=flat-square)
+![GHStreak](https://github-readme-streak-stats.herokuapp.com/?user=k3razz)<br>![Profile views](https://komarev.com/ghpvc/?username=k3razz&label=Profile%20views&color=blue&style=flat-square)

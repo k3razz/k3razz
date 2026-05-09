@@ -1,7 +1,12 @@
 
 ## Languages
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=git,github,cs,java,javascript,py,html,css,visualstudio" />
+   <img src="https://skillicons.dev/icons?i=cs,java,javascript,py,html,css" />
+</div>
+
+### IDE's:
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=git,github,idea,rider,visualstudio" />
 </div>
 
 ## About me

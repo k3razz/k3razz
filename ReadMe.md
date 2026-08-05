@@ -10,7 +10,7 @@
 </div>
 
 ## About me
-Age: 19 
+Age: 17
 
 Name: Sasha 
 

@@ -18,7 +18,7 @@ Country: Ukraine
 
 ## Project's
 [EclipseMenu](https://github.com/k3razz/eclipsemenu),
-[AULoader](https://github.com/k3razz/AULauncher)
+[AULoader](https://github.com/k3razz/AULauncher), [dalace GC](https://github.com/k3razz/Dalace_GC)
 
 ## Contributing
 [MalumMenu-Unofficial](https://github.com/f1xx00rs/MalumMenu-Unofficial)

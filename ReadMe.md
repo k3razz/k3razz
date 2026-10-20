@@ -26,4 +26,6 @@ Country: Ukraine
 [MalumMenu-Unofficial](https://github.com/f1xx00rs/MalumMenu-Unofficial)
 
 ## GitHub stats
-![GHStreak](https://github-readme-streak-stats.herokuapp.com/?user=k3razz)<br>![Profile views](https://komarev.com/ghpvc/?username=k3razz&label=Profile%20views&color=blue&style=flat-square)
+![GHStreak](https://github-readme-streak-stats.herokuapp.com/?user=k3razz&theme=catppuccin_mocha)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=astralkitsune&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha)<br>
+![Profile views](https://komarev.com/ghpvc/?username=k3razz&label=Profile%20views&color=blue&style=flat-square&theme=catppuccin_mocha)<br/>

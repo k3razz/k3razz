@@ -9,6 +9,8 @@
    <img src="https://skillicons.dev/icons?i=git,github,idea,rider,visualstudio" />
 </div>
 
+<video src="media/1.mp4" width="100%" autoplay loop muted playsinline></video>
+
 ## About me
 Age: 17
 

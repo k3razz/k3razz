@@ -1,7 +1,7 @@
 
 ## Languages
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=cs,java,javascript,py,html,css" />
+   <img src="https://skillicons.dev/icons?i=cs,cpp,java,javascript,py,html,css" />
 </div>
 
 ### IDE's:

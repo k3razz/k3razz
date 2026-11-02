@@ -18,6 +18,7 @@ Country: Ukraine
 
 ## Project's
 [EclipseMenu](https://github.com/k3razz/eclipsemenu)
+Explode (StandChillow) — Currently private
 
 ## Discounted project's
 [AULoader](https://github.com/k3razz/AULauncher), [dalace GC](https://github.com/k3razz/Dalace_GC)

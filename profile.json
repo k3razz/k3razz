@@ -59,11 +59,11 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:cll",
+            "icon": "brand:c++",
             "label": "C++"
           },
           {
-            "icon": "brand:csharp",
+            "icon": "brand:c#",
             "label": "C#"
           },
           {

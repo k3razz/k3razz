@@ -1,0 +1,382 @@
+{
+ "key": "905d2e2c",
+ "stars": 20,
+ "contributions": 2021,
+ "repos": 24,
+ "followers": 4,
+ "languages": [
+  [
+   "C#",
+   50566260
+  ],
+  [
+   "C++",
+   2848898
+  ],
+  [
+   "Luau",
+   592471
+  ],
+  [
+   "C",
+   216433
+  ],
+  [
+   "Lua",
+   40156
+  ],
+  [
+   "CMake",
+   32508
+  ],
+  [
+   "HTML",
+   13121
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 57,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 30,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 23,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 56,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 59,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 90,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 51,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 71,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 30,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 54,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 6,
+    "day": 8,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 7,
+  "longest": 11
+ },
+ "pins": [
+  {
+   "name": "EclipseMenu",
+   "url": "https://github.com/k3razz/EclipseMenu",
+   "text": "A free among-us mod menu",
+   "fork": false,
+   "stars": 15,
+   "language": "C#",
+   "topics": [
+    "among-us",
+    "amongus-hack",
+    "bepinex",
+    "bepinex-plugin",
+    "mod-menu-windows",
+    "among-us-bepinex"
+   ]
+  },
+  {
+   "name": "AULauncher",
+   "url": "https://github.com/k3razz/AULauncher",
+   "text": "A simple and free-to-use Among Us Mod Launcher.",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "EclipseMenu",
+   "url": "https://github.com/k3razz/EclipseMenu",
+   "text": "A free among-us mod menu",
+   "fork": false,
+   "stars": 15,
+   "language": "C#",
+   "topics": [
+    "among-us",
+    "amongus-hack",
+    "bepinex",
+    "bepinex-plugin",
+    "mod-menu-windows",
+    "among-us-bepinex"
+   ]
+  },
+  {
+   "name": "Explode-SC",
+   "url": "https://github.com/k3razz/Explode-SC",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "crossLang",
+   "url": "https://github.com/k3razz/crossLang",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "cs2-gc",
+   "url": "https://github.com/k3razz/cs2-gc",
+   "text": "Intelligent Game Coordinator for CS2",
+   "fork": true,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "cs2_gc",
+   "url": "https://github.com/k3razz/cs2_gc",
+   "text": "Intelligent Game Coordinator for CS2",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "dalace_gc",
+   "url": "https://github.com/k3razz/dalace_gc",
+   "text": "Intelligent Game Coordinator for CS:GO",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "csgo_gc_scaleform",
+   "url": "https://github.com/k3razz/csgo_gc_scaleform",
+   "text": "https://t.me/scalegc",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "SCDUMP",
+   "url": "https://github.com/k3razz/SCDUMP",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "burmalda_gc",
+   "url": "https://github.com/k3razz/burmalda_gc",
+   "text": "Intelligent Game Coordinator for CS:GO",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Among-Chammelion",
+   "url": "https://github.com/k3razz/Among-Chammelion",
+   "text": "Open-source mod that allows you to hide and seek like in mecha chamellions.",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "bbgc",
+   "url": "https://github.com/k3razz/bbgc",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "cenous67-afk.github.io",
+   "url": "https://github.com/k3razz/cenous67-afk.github.io",
+   "text": "Riptide operation, skins, shops, matchmaking, VAC and more",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "snakedlc",
+   "url": "https://github.com/k3razz/snakedlc",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "bloxstrike-FT",
+   "url": "https://github.com/k3razz/bloxstrike-FT",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "subscrube",
+   "url": "https://github.com/k3razz/subscrube",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "cs2-map-icons",
+   "url": "https://github.com/k3razz/cs2-map-icons",
+   "text": "Automatically extracted Counter-Strike 2 map icons, radars, thumbnails, and overview data - pulled straight from the game depot and updated on a schedule",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "NeverWin",
+   "url": "https://github.com/k3razz/NeverWin",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Luau",
+   "topics": []
+  },
+  {
+   "name": "NeverLose",
+   "url": "https://github.com/k3razz/NeverLose",
+   "text": "Neverlose.cc Recode UI for Roblox",
+   "fork": true,
+   "stars": 0,
+   "language": "Luau",
+   "topics": []
+  },
+  {
+   "name": "scaleform",
+   "url": "https://github.com/k3razz/scaleform",
+   "text": "A cross-platform, hackable and future-proof reimplementation of In-Game Scaleform HUD in CS:GO using Panorama. Written using C, C++ and JS.",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "CSGO_GC-edited",
+   "url": "https://github.com/k3razz/CSGO_GC-edited",
+   "text": "csgo_gc mod that allows change  rarity weights in one .txt file",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "contribution-farm",
+   "url": "https://github.com/k3razz/contribution-farm",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MalumMenu-Unofficial",
+   "url": "https://github.com/k3razz/MalumMenu-Unofficial",
+   "text": "An Among Us Cheat",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "k3razz",
+   "url": "https://github.com/k3razz/k3razz",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AULauncher",
+   "url": "https://github.com/k3razz/AULauncher",
+   "text": "A simple and free-to-use Among Us Mod Launcher.",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  }
+ ]
+}

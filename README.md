@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/k3razz/EclipseMenu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-eclipsemenu-dark.svg"><img src="assets/project-eclipsemenu-light.svg" width="49%" alt="EclipseMenu"></picture></a>&nbsp;<a href="https://github.com/k3razz/Explode-SC"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-explode-sc-dark.svg"><img src="assets/project-explode-sc-light.svg" width="49%" alt="Explode-SC"></picture></a>
-
-<a href="https://github.com/k3razz/crossLang"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-crosslang-dark.svg"><img src="assets/project-crosslang-light.svg" width="49%" alt="crossLang"></picture></a>&nbsp;<a href="https://github.com/k3razz/cs2_gc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cs2-gc-dark.svg"><img src="assets/project-cs2-gc-light.svg" width="49%" alt="cs2_gc"></picture></a>
+<a href="https://github.com/k3razz/EclipseMenu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-eclipsemenu-dark.svg"><img src="assets/project-eclipsemenu-light.svg" width="49%" alt="EclipseMenu"></picture></a>&nbsp;<a href="https://github.com/k3razz/AULauncher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-aulauncher-dark.svg"><img src="assets/project-aulauncher-light.svg" width="49%" alt="AULauncher"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

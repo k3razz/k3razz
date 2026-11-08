@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "I creating mods and cheats for games like Minecraft, Among Us, Counter-Strike 2.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -31,7 +31,7 @@
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "C++ · C# · Python"
       }
     ]
   },
@@ -59,12 +59,12 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:cll",
+            "label": "C++"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:csharp",
+            "label": "C#"
           },
           {
             "icon": "brand:python",
@@ -119,15 +119,7 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://t.me/explode_sc"
       }
     ],
     "variant": "chip",
@@ -136,12 +128,6 @@
   },
   "buttons": {
     "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
       {
         "icon": "book_2",
         "label": "All repositories",

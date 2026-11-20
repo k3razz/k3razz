@@ -1,5 +1,5 @@
 {
- "key": "db978290",
+ "key": "9a30a6ba",
  "stars": 20,
  "contributions": 2096,
  "repos": 25,
@@ -133,9 +133,13 @@
    {
     "c": 22,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],

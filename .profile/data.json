@@ -1,6 +1,6 @@
 {
- "key": "2acf19d4",
- "stars": 20,
+ "key": "6aaef511",
+ "stars": 19,
  "contributions": 2095,
  "repos": 25,
  "followers": 5,
@@ -215,15 +215,6 @@
    "topics": []
   },
   {
-   "name": "cs2_gc",
-   "url": "https://github.com/k3razz/cs2_gc",
-   "text": "Intelligent Game Coordinator for CS2",
-   "fork": false,
-   "stars": 1,
-   "language": "C++",
-   "topics": []
-  },
-  {
    "name": "dalace_gc",
    "url": "https://github.com/k3razz/dalace_gc",
    "text": "Intelligent Game Coordinator for CS:GO",
@@ -311,6 +302,15 @@
    "fork": false,
    "stars": 0,
    "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "cs2_gc",
+   "url": "https://github.com/k3razz/cs2_gc",
+   "text": "Intelligent Game Coordinator for CS2",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
    "topics": []
   },
   {
